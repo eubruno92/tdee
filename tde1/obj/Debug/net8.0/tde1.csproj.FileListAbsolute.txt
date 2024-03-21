@@ -1,0 +1,14 @@
+C:\Users\Bruno Costa\projects\lab-prog\aula2\tde\tde1\bin\Debug\net8.0\tde1.exe
+C:\Users\Bruno Costa\projects\lab-prog\aula2\tde\tde1\bin\Debug\net8.0\tde1.deps.json
+C:\Users\Bruno Costa\projects\lab-prog\aula2\tde\tde1\bin\Debug\net8.0\tde1.runtimeconfig.json
+C:\Users\Bruno Costa\projects\lab-prog\aula2\tde\tde1\bin\Debug\net8.0\tde1.dll
+C:\Users\Bruno Costa\projects\lab-prog\aula2\tde\tde1\bin\Debug\net8.0\tde1.pdb
+C:\Users\Bruno Costa\projects\lab-prog\aula2\tde\tde1\obj\Debug\net8.0\tde1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno Costa\projects\lab-prog\aula2\tde\tde1\obj\Debug\net8.0\tde1.AssemblyInfoInputs.cache
+C:\Users\Bruno Costa\projects\lab-prog\aula2\tde\tde1\obj\Debug\net8.0\tde1.AssemblyInfo.cs
+C:\Users\Bruno Costa\projects\lab-prog\aula2\tde\tde1\obj\Debug\net8.0\tde1.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Costa\projects\lab-prog\aula2\tde\tde1\obj\Debug\net8.0\tde1.dll
+C:\Users\Bruno Costa\projects\lab-prog\aula2\tde\tde1\obj\Debug\net8.0\refint\tde1.dll
+C:\Users\Bruno Costa\projects\lab-prog\aula2\tde\tde1\obj\Debug\net8.0\tde1.pdb
+C:\Users\Bruno Costa\projects\lab-prog\aula2\tde\tde1\obj\Debug\net8.0\tde1.genruntimeconfig.cache
+C:\Users\Bruno Costa\projects\lab-prog\aula2\tde\tde1\obj\Debug\net8.0\ref\tde1.dll
